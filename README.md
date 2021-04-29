@@ -1,1 +1,4 @@
-# crypto-hex-javascript-encode-php-decode
+# Vue Js Crypto Requirements
+
+* php openssl extention
+* vue-cryptojs package
